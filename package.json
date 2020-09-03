@@ -5,7 +5,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "jest": "^24.9.0",
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.13.0"
   },
   "scripts": {
     "test": "jest",
@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "faker": "^4.1.0",
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.13.0"
   }
 }
